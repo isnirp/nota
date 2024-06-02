@@ -1,7 +1,15 @@
 # Variables
-***
+- stores srate of an object
+- type
+    - instance variable
+    - class variable
+    - local variable
+    - parameters
+- naming:
+    - begins with a letter or $ or _
+    - subsequent chars are letters, $, _, numbers
 ## primitive types
-- byte(0), short(0), int(0), long(0L), float(0.0f), double(0.0d), boolean(false), and char('\u0000)
+- byte(0) 8bits, short(0) 16bits, int(0) 32bits, long(0L) 64bits, float(0.0f) 32bits, double(0.0d) 64bits, boolean(false), and char('\u0000) 16bits
 - compiler assigns default values to these variables but not when they are used as local variables(i.e. in methods).
 ## reference types
 - any object (null)
