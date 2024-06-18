@@ -93,3 +93,12 @@ ___
     - contains(s)
     - replace(c,c)
     - join(s, s...| iterable)
+
+## autoboxing
+- converting a primitive into an object
+- The Java compiler applies autoboxing when a primitive value is:
+  - Passed as a parameter to a method that expects an object of the corresponding wrapper class.
+  - Assigned to a variable of the corresponding wrapper class.
+
+## unboxing
+- converting a wrapper object to it's corresponding primitive value 
