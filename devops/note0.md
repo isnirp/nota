@@ -1,0 +1,17 @@
+# Devops
+- OS (Linux)
+    - shell
+    - networking
+- Git
+- Containerization
+- Artifactory
+- k8s
+- Advanced cloud platform skills
+    - AWS, azure
+    - design, build and maintain complex cloud infrastructure
+    - scale cloud infrastructure
+    - deploy and manage clusters
+- Managed k8s service
+    - EKS
+- Ansible
+- Security
